@@ -1,6 +1,6 @@
 # GitHub sync
 
-The user wants each completed change reflected on GitHub in the private repository `alinaismailova006-hub/ryadom`, branch `main`.
+The user wants each completed change reflected on GitHub in the repository `alinaismailova006-hub/ryadom`, branch `main`.
 
 - Before starting, inspect `git status` and check the remote branch for work by the other collaborator.
 - After validating a requested edit, stage the files changed for that task, make a descriptive local commit, and publish it to `main`. Verify the updated branch.
